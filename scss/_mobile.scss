@@ -1,0 +1,35 @@
+@include mediaMd {
+  main {
+    grid-template-areas:
+      'title'
+      'form';
+  }
+
+  .title-container {
+    height: 45vh;
+    padding-top: 15vh;
+    h1 {
+      font-size: 25px;
+    }
+    p {
+      font-size: 16px;
+    }
+  }
+
+  .form-container {
+    height: 45vh;
+    padding-top: 10px;
+
+    input[type='text'] {
+      font-size: 20px;
+    }
+    button {
+      font-size: 20px;
+      padding: 6px 15px;
+    }
+    .weather-key {
+      padding: 10px 0 10px 0;
+      font-size: 15px;
+    }
+  }
+}
