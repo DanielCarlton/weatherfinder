@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/weatherfinder/static/css/1.e58995b9.chunk.css"
   },
   {
-    "revision": "b61352fb48f27766497de8fd0cc44060",
+    "revision": "dac72e140cd649b6f06cdfed8a0edf5a",
     "url": "/weatherfinder/index.html"
   }
 ];
