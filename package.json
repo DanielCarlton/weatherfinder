@@ -2,8 +2,10 @@
   "name": "weatherfinder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://danielcarlton.github.io/weatherfinder/",
   "dependencies": {
     "bootstrap": "^4.2.1",
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
@@ -11,6 +13,7 @@
   },
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
