@@ -1,0 +1,16 @@
+{
+  "main.css": "/weatherfinder/static/css/main.659de353.chunk.css",
+  "main.js": "/weatherfinder/static/js/main.4ff94c58.chunk.js",
+  "main.js.map": "/weatherfinder/static/js/main.4ff94c58.chunk.js.map",
+  "static/css/1.e58995b9.chunk.css": "/weatherfinder/static/css/1.e58995b9.chunk.css",
+  "static/js/1.101ce775.chunk.js": "/weatherfinder/static/js/1.101ce775.chunk.js",
+  "static/js/1.101ce775.chunk.js.map": "/weatherfinder/static/js/1.101ce775.chunk.js.map",
+  "runtime~main.js": "/weatherfinder/static/js/runtime~main.f921e793.js",
+  "runtime~main.js.map": "/weatherfinder/static/js/runtime~main.f921e793.js.map",
+  "static/css/1.e58995b9.chunk.css.map": "/weatherfinder/static/css/1.e58995b9.chunk.css.map",
+  "static/media/App.css": "/weatherfinder/static/media/bg.b6796c73.jpg",
+  "static/css/main.659de353.chunk.css.map": "/weatherfinder/static/css/main.659de353.chunk.css.map",
+  "index.html": "/weatherfinder/index.html",
+  "precache-manifest.15b304dcfe02b760e0b964b7376c3f4c.js": "/weatherfinder/precache-manifest.15b304dcfe02b760e0b964b7376c3f4c.js",
+  "service-worker.js": "/weatherfinder/service-worker.js"
+}
